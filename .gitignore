@@ -2,3 +2,8 @@
 
 /server/node_modules
 /server/package-lock.json
+
+## Removendo arquivos desnecessários da aplicação (frontend)
+
+/app/frontend/node_modules
+/app/frontend/package-lock.json
