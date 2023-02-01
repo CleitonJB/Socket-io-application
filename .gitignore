@@ -1,0 +1,4 @@
+## Removendo arquivos desnecessários do servidor
+
+/server/node_modules
+/server/package-lock.json
